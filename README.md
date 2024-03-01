@@ -10,11 +10,11 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ## 01/03/2024 Object Detection and Instance Segmentation**
 
-- (1) Lecture Slide: N/A
+- (1) Lecture Slide: https://github.com/kaopanboonyuen/deep_learning_for_vision/blob/main/slide/01032024_deep_learning_cv_slide.pdf
 
-- (2) (Code) Object Detection with Deep Learning: N/A
+- (2) (Code) Object Detection with Deep Learning: https://colab.research.google.com/github/kaopanboonyuen/deep_learning_for_vision/blob/main/code/ai_workshop_object_detection_toStudent.ipynb
 
-- (3) (Code) Instance Segmentation with Deep Learning: N/A
+- (3) (Code) Instance Segmentation with Deep Learning: https://colab.research.google.com/github/kaopanboonyuen/deep_learning_for_vision/blob/main/code/ai_workshop_instance_segmentation_toStudent.ipynb
 
 ![alt text](https://chaosmail.github.io/images/deep-learning/localizationVsDetection.png "join ds")
 
