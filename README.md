@@ -25,3 +25,6 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 3. https://github.com/topics/machine-learning
 4. https://archive.ics.uci.edu/ml/datasets.php
 5. https://colab.research.google.com/notebooks/
+6. https://www.run.ai/guides/deep-learning-for-computer-vision
+7. https://www.oreilly.com/library/view/practical-machine-learning/9781098102357/ch04.html
+8. https://docs.ultralytics.com/
